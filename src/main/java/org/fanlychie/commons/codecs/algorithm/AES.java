@@ -1,4 +1,4 @@
-package org.fanlychie.commons.codecs;
+package org.fanlychie.commons.codecs.algorithm;
 
 import org.fanlychie.commons.codecs.exception.RuntimeCastException;
 
@@ -22,7 +22,7 @@ public final class AES {
     /**
      * 密钥长度 128(16)/192(24)/256(32)
      */
-    public static final int LENGTH = 128;
+    private static final int LENGTH = 128;
 
     /**
      * UTF-8 字符集编码
