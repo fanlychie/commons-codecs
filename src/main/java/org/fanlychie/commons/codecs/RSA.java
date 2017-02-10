@@ -1,4 +1,4 @@
-package org.fanlychie.commons.codecs.algorithm;
+package org.fanlychie.commons.codecs;
 
 import org.fanlychie.commons.codecs.exception.RuntimeCastException;
 
